@@ -1,0 +1,99 @@
+header{
+    background-image: url(fonn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h2,h3{font-family: Lucida}
+h3{color: grey;
+   font-size: 22px;}
+h1{font-size:50px;
+    font-weight: bold;
+    text-decoration: underline rgb(45, 216, 177,0.3);
+}
+h2{font-size:30px}
+div{padding: 200px 100px 0 300px}
+.logo{padding: 50px 50px 0 300px;
+    }
+.nav { 
+        float: right;
+      }
+.nav a {
+        float: left;
+        color: #000000;
+        text-align: center;
+        padding: 14px 50px;
+        font-size: 25px;
+      }
+*{text-decoration: none;}
+ul{padding:20px 100px 0 300px;}
+.otstup{padding:450px 100px 30px 300px}
+.dd1,.dd2{
+        float: left;
+        color: #ffffff;
+        text-align: center;
+        font-size: 20px;   
+        margin-right:10px;
+        display: inline-block;
+        width: 200px;
+        font-family: Garamond
+}
+.push{
+    background:#2dd8b1;
+    text-align: center;
+    color: #ffffff;
+}
+.dd1{
+    background:#2dd8b1; 
+    border:12px solid #2dd8b1;
+}
+.dd2{
+    background:#353d3b; 
+    border:12px solid #353d3b;
+}
+.two{
+    display: block;
+    }
+.three{padding:80px 100px 0 300px;
+    display: block;
+    background-color: #f8f8ff
+}
+.four{
+    padding:80px 100px 0 300px;
+    display: block;
+    background-color: #2dd8b1
+}
+.five{padding:0 100px 50px 50px;}
+.five h1{padding:0 0 0 300px;}
+.six{
+    display: block;
+    background-color: #f8f8ff;
+}
+.inputt{
+    width: 700px;
+    height: 200px;
+    border:1px solid rgb(207, 204, 204);
+    font-size:16px;
+    float: right;
+}
+.z1, .z2{float: right;
+    text-align: center;
+    margin-right:10px;
+    margin-bottom:10px;
+    width: 345px;
+    height: 50px;
+    border:1px solid rgb(207, 204, 204);
+}
+input{
+    float:right;
+    margin-bottom:100px
+}
+.form{
+    padding: 20px 100px 0 10px;
+margin-left: 20px;
+}
+.z3{float:left;}
+.info{float:left;
+padding:0 0 0 0 ;}
+.links{float:right;}
+ .about, .subscribe{float:right;}
