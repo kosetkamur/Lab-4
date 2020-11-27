@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <title>maket</title>
+        <link rel='stylesheet' href='webstyle.css' type='text/css'>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <header>
+            <ul class="nav">
+                <a href="">Home</a>
+                <a href="">About</a>
+                <a href="">Services</a>
+                <a href="">Portfolio</a>
+                <a href="">Blog</a>
+                <a href="" class='push' style='color:white'>Contact me</a>
+            </ul>
+            <img src='Logo.png' align='left' width='220px' height='50px' class='logo'>
+            <div class='otstup'>
+            <h2>Hi Myself John Smith</h2>
+            <h1> Professional Graphic Designer</h1>
+            <h3>There are many varlations of passage of Lorem Ipsum available, but the majority have suffered<br>
+             alteration in some form, by injected humour.</h3>
+            </div>
+            <ul>
+            <a href="" class='dd1'>About Me</a>
+            <a href="" class='dd2'>Download CV</a>
+            </ul>
+            <div> </div>
+        </header>
+        <div class='two'>
+        <img src='elipses.png' width='530px' height='450px' align='right'>
+        <h2>About Me</h2>
+        <hr align="left" width="100px" size="3" color="#2dd8b1">
+        <h1>Creative Grafhic Designer<br>
+        Create Awesome Project As You Need</h1>
+        <h3>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in<br>
+        some form, by injected humour, or randomised words which don't lookeven slightly believable. If you are<br>
+        going to use a passage of Lorem Ipsum, you need to be sure there isn't anything.</h3>
+        </div>
+        <div> </div>
+        <div class='three'>
+        <center>
+        <h1>My Provise Services</h1>
+        </center>
+        <img src='services.png' width='1800px' height='1100px';>
+        <div> </div>
+        </div>
+        <div class='four'>
+        <center>
+         <h1>Software Skills</h1>
+        </center>
+        <img src='zagruzka.png' width="1700px">
+        <div> </div>
+        </div>
+        <div class='five'>
+            <h1>Latest Project</h1>
+            <ul class="navfive">
+            <h3>All  Graphic  Design  Web development  Video  Editing  Photography  Others</h3>
+            <img src='five.png' width='1800px' height='1100px'>
+            <center>
+            <h1>Client Feedback</h1>
+            <img src='Client.png'width='1500px' height='400px'>
+            </center>
+            <div> </div>
+            <img src='freyfon.png' align='left' >
+            <h2>We give solution</h2>
+            <hr align="left" width="210px" size="3" color="#2dd8b1">
+            <h1>If you have any questions<br>
+                please donn't hesitate to contact us</h1>
+            </h1>
+            <form>
+                <div class='form'>
+                  <input type="text" required id='fullname' placeholder="Name" class='z1'>
+                  <input type='text' required id='email' placeholder="E-mail Adresse" class='z2'>
+                  <input type="text" required id='message' placeholder="Message" class='inputt'>
+                  <input type='submit' value='Send Message' class='input'>
+                </div>
+            </form>
+            <div> </div>
+            <center>
+            <h1>Latest News</h1>
+            </center>
+            <img src='news.png'width='1800px' height='800px'>
+            <div></div>
+            <img src='logos.png'width='1800px' height='100px'>
+        </div>
+    <div class='six'>
+        <footer>
+        <div class='info'><img src='Logo.png' width='150px' height='40px'>
+        <h3>There are many variations of<br> passages of Lorem Ipsum available, but the majority have<br> suffered alteration</h3>
+        </div>
+        <div class='links'>
+        <ul>
+            <legend>Quick Link</legend>
+            <a href="">Home</a>
+                <a href="">About</a>
+                <a href="">Services</a>
+                <a href="">Portfolio</a>
+                <a href="">Blog</a>
+        </ul>
+        </div>
+        <div class='about'>
+        <ul>
+            <legend>About Me</legend>
+            <a href="">Service Policy</a>
+            <a href="">Terms & Condition</a>
+            <a href="">Online Agreement</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Copyright Issue</a>
+        </ul>
+        </div>
+        <div class='subscribe'>
+        <h2 font-size='16px'>News Letter</h2>
+        <form>
+        <input type="text" required id='fullname' placeholder="E-mail Adresse" class='z3'>
+        </form>
+        </div>
+    </div>
+    </body>
+</html>
